@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 ## About Me
-I am currently learning to use git
+This is my Cogrammer GitHub Profile
 
 ## My Projects
 - [byb_project](https://github.com/BrilliantM64/byb_project): Hello World script testing my basic Git skills.
